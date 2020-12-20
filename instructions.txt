@@ -1,0 +1,4 @@
+step 1 : To run PHP files we need apache web server. You can download XAMPP or LAMPP from google and install on your device.
+step 2 : Create an folder in htdocs (from XAMPP or LAMPP directory) and download all files in new created folder.
+step 3 : Then import the sql database file in your database.
+step 4 : Start apache server and run test1.php from any web browser and click on button named as Download as Excel Sheet. 
